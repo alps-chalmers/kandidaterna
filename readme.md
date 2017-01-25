@@ -8,6 +8,7 @@ Kandidatsarbete!
 Fre 15:15-17:00
 
 Mötesupplägg
+
 1) Närvaro
 
 2) Vad har alla gjort relativt vad alla borde gjort? Hur har det gått?
