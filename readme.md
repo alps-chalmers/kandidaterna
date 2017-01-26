@@ -21,6 +21,10 @@ Mötesupplägg
 
 6) Boka rum, dubbelkolla mötestid, notera ölskuld, etc.
 
+## Planeringsrapport
+
+
+
 ## Projektroller
 
 
