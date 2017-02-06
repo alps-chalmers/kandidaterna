@@ -5,8 +5,8 @@ Närvarande:
 -----------
 
   * Erik
-  * Oskar IT
-  * Oskar MATTE är SJUK
+  * Oskar IT är SJUK
+  * Oskar MATTE 
   * Carl
   * Tobias
   * Andreas
