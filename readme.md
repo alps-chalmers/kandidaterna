@@ -17,9 +17,11 @@ Mötesupplägg
 
 4) Diskutera allmänna problem och metabestämmelser
 
-5) Fyll TODO till nästa möte
+5) Skriv veckans loggbok.
 
-6) Boka rum, dubbelkolla mötestid, notera ölskuld, etc.
+6) Fyll TODO till nästa möte
+
+7) Boka rum, dubbelkolla mötestid, notera ölskuld, etc.
 
 ## Planeringsrapport
 
