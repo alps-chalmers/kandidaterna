@@ -6,7 +6,7 @@ Närvarande:
 
   * Erik
   * 95:an är 18 minuter sen (oanmält!)
-  * Oskar MATTE
+  * Oskar IT
   * Tobias
   * Andreas
   * Johan sitter in
