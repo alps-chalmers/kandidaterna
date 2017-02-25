@@ -1,0 +1,10 @@
+1a) Syntactic approach, no operational semantics 
+ b) NOT denotational, operational semantics not be our first priority, can be done
+ c) Proof system
+ d/e) In agda using Data types
+ 
+2
+
+-----------------------
+Show code, Johans and ET
+Exampe from Owicki, show this is what we want to do
